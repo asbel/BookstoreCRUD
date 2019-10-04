@@ -1,4 +1,4 @@
-package org.arpit.java2blog.bean;
+package org.bookstoreCRUD.bean;
 
 public class Order{
 	

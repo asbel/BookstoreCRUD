@@ -1,4 +1,4 @@
-package org.arpit.java2blog.controller;
+package org.bookstoreCRUD.controller;
 
 import java.util.List;
 
