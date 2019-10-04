@@ -1,4 +1,6 @@
-package Customer;
+package org.bookstoreCRUD.bean;
+
+import com.sun.xml.txw2.annotation.XmlElement;
 
 public class CustomerAccount {
 private int id; 

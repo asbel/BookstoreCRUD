@@ -1,4 +1,4 @@
-package org.arpit.java2blog.service;
+package org.bookstoreCRUD.service;
 
 import java.util.ArrayList;
 import java.util.HashMap;

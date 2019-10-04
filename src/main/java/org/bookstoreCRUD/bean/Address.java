@@ -1,6 +1,6 @@
-package Employees;
+package org.bookstoreCRUD.bean;
 
-import Customer.XmlElement;
+import com.sun.xml.txw2.annotation.XmlElement;
 
 public class Address extends Employee{
 		private int id; 

@@ -12,7 +12,7 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
 import org.arpit.java2blog.bean.Country;
-import org.arpit.java2blog.service.CountryService;
+import org.bookstoreCRUD.service.CountryService;
 
 
 @Path("/countries")
