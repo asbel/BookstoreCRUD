@@ -27,6 +27,7 @@ public class Address extends Employee{
 		      this.Unit = Unit;
 		      this.Zip = Zip;
 		   }  
+		   @XmlElement
 		   public int getId() { 
 		      return id; 
 		   }  
